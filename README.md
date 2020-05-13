@@ -1,1 +1,1 @@
-网易云音乐评论爬虫，运行neMusicCrawler爬取指定ID指定数量的评论，不含热评
+网易云音乐评论爬虫，运行neMusicCrawler爬取指定ID指定数量的评论，不含热评，画热词TOP20柱状图
